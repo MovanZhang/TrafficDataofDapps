@@ -4,7 +4,7 @@ size 16
 
 If you make use of the traffic data of DApp in your work, please cite our paper (Bibtex below).
 
-@inproceedings{DBLP:conf/iwqos/ShenZZ0DL19, <br/>
+>@inproceedings{DBLP:conf/iwqos/ShenZZ0DL19, <br/>
 >  author    = {Meng Shen and Jinpeng Zhang and Liehuang Zhu and Ke Xu and Xiaojiang Du and Yiting Liu}, <br/>
 >  title     = {Encrypted traffic classification of decentralized applications on ethereum using feature fusion}, <br/>
 >  booktitle = {Proceedings of the International Symposium on Quality of Service, IWQoS 2019, Phoenix, AZ, USA, June 24-25, 2019}, <br/>
