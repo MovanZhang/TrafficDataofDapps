@@ -2,16 +2,25 @@ version https://git-lfs.github.com/spec/v1
 oid sha256:b4b2421bf8e5e6476b15bfe377a7e206e120a42eeb2e67ed9691d47fef482561
 size 16
 
+@article{DBLP:journals/tifs/ShenZZXD21,
+  author    = {Meng Shen and
+               Jinpeng Zhang and
+               Liehuang Zhu and
+               Ke Xu and
+               Xiaojiang Du},
+  title     = {Accurate Decentralized Application Identification via Encrypted Traffic
+               Analysis Using Graph Neural Networks},
+  journal   = {{IEEE} Trans. Inf. Forensics Secur.},
+  volume    = {16},
+  pages     = {2367--2380},
+  year      = {2021},
+  url       = {https://doi.org/10.1109/TIFS.2021.3050608},
+  doi       = {10.1109/TIFS.2021.3050608},
+  timestamp = {Tue, 02 Mar 2021 11:26:04 +0100},
+  biburl    = {https://dblp.org/rec/journals/tifs/ShenZZXD21.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
+}
 
-@ARTICLE{9319399,
-  author={M. {Shen} and J. {Zhang} and L. {Zhu} and K. {Xu} and X. {Du}},
-  journal={IEEE Transactions on Information Forensics and Security}, 
-  title={Accurate Decentralized Application Identification via Encrypted Traffic Analysis Using Graph Neural Networks}, 
-  year={2021},
-  volume={16},
-  number={},
-  pages={2367-2380},
-  doi={10.1109/TIFS.2021.3050608}}
   
 @inproceedings{10.1145/3326285.3329053,
 author = {Shen, Meng and Zhang, Jinpeng and Zhu, Liehuang and Xu, Ke and Du, Xiaojiang and Liu, Yiting},
