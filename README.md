@@ -1,6 +1,10 @@
 # Traffic Data of DApps
-《Accurate Decentralized Application Identification via Encrypted Traffic Analysis Using Graph Neural Networks》 
+《Accurate Decentralized Application Identification via Encrypted Traffic Analysis Using Graph Neural Networks》
+
+
 《Encrypted Traffic Classification of Decentralized Applications on Ethereum Using Feature Fusion》
+
+
 "Traffic Interaction Graph (TIG) " implementation please refer to parseFlow2Graph.py
 
 #Author: Jinpeng Zhang  
