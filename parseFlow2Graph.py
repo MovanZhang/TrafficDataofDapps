@@ -2,7 +2,7 @@
 @author: Zhang Jinpeng
 @created： 2019.12.06
 @version: Python3.7
-@description: 将神经网络进行图结构编码
+@description: 将流进行图结构编码
 @email: zhangjinpeng2117@foxmail.com
 '''
 # encoding: utf8
